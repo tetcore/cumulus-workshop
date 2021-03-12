@@ -1,6 +1,6 @@
-# Substrate Cumulus Workshop
+# Tetcore Medley Workshop
 
-Connect Substrate blockchains to Polkadot with Cumulus
+Connect Tetcore blockchains to Tetcoin with Medley
 
 In this hands-on workshop, participants will start a Polkadot-like relay chain, register parachains, make cross-chain
 asset transfers, and convert their own Substrate runtimes to parachains using Cumulus.
